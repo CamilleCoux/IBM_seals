@@ -1,0 +1,1 @@
+This is a toy repo to play around with Individual Based Models as part of the excellent workshop "IBMs & Spatially explicit IBMs with NetLogoR" by Bauduin S., Speakman C., and Harraiz Fernandez C, which took place at CEFE, in Montpellier, France, on June 23-25 2025.
